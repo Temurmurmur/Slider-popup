@@ -1,0 +1,21 @@
+@keyframes alert {
+  0% {
+    margin-left: 100px;
+    opacity: 0;
+  }
+  100% {
+    margin-left: 0;
+    opacity: 1;
+  }
+}
+
+@keyframes popup {
+  0% {
+    margin-bottom: 500px;
+    opacity: 0;
+  }
+  100% {
+    margin-bottom: 0;
+    opacity: 1;
+  }
+}
